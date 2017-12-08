@@ -1,4 +1,4 @@
-// In this exercise, w are defining a binary tree data structure.
+// In this exercise, we are defining a binary tree data structure.
 //
 // A trait is an abstract interface that may optionally contain
 // implementations of some methods.
